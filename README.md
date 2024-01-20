@@ -7,19 +7,15 @@
 
 ## 🌱 Currently Learning
 
-- DevOps for AI
-- DevOps for ML
+- DevOps for AI - DevOps for ML
 
 ## 👯 Looking to Collaborate On
 
-- FaceAI
-- MiniERP
-- GenAI
+- FaceAI - GenAI - MiniERP
 
 ## 🤝 Seeking Help With
 
-- DevSecOps Community
-- AWS Cloud Community
+- DevSecOps Community - AWS Cloud Community
 
 ## 📝 Articles
 
