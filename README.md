@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Amir Hossain</h1>
-<h3 align="center">A passionate Cloud Architect,DevSecOps practitioner & Technical team leader from Bangladesh</h3>
+<h3 align="center">A passionate Cloud Architect,DevSecOps practitioner & AWS community Builder from Bangladesh</h3>
 
 - 🔭 I’m currently working on [SmartCBT (Computer Based Test)](https://github.com/amir-projects/smartcbt)
 
-- 🌱 I’m currently learning **...**
+- 🌱 I’m currently learning DevOps for AI, DevOps for ML.
 
 - 👯 I’m looking to collaborate on **FaceAI,MiniERP,GenAI**
 
-- 🤝 I’m looking for help with **DevSecOps Community**
+- 🤝 I’m looking for help with **DevSecOps Community**, **AWS Cloud Community**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ahshohag/](https://www.linkedin.com/in/ahshohag/)
 
