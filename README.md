@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [SmartCBT (Computer Based Test)](https://github.com/amir-projects/smartcbt)
 
-- 🌱 I’m currently learning DevOps for AI, DevOps for ML.
+- 🌱 I’m currently learning **DevOps for AI, DevOps for ML**.
 
 - 👯 I’m looking to collaborate on **FaceAI,GenAI MiniERP**
 
-- 🤝 I’m looking for help with **DevSecOps Community**, **AWS Cloud Community**
+- 🤝 I’m currently actively supporting **DevSecOps Community**, **AWS Cloud Community**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ahshohag/](https://www.linkedin.com/in/ahshohag/)
 
