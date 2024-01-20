@@ -1,17 +1,35 @@
-<h1 align="center">Hi 👋, I'm Amir Hossain</h1>
-<h3 align="center">A passionate Cloud Architect,DevSecOps practitioner & AWS community Builder from Bangladesh</h3>
+<h1 align="center">Hello there, I'm Amir Hossain</h1>
+<h3 align="center"> I am an enthusiastic professional with expertise as a Cloud Architect, devoted DevSecOps practitioner, and an active contributor to the AWS community.</h3>
 
-- 🔭 I’m currently working on [SmartCBT (Computer Based Test)](https://github.com/amir-projects/smartcbt)
+## 🔭 Currently Working On
 
-- 🌱 I’m currently learning DevOps for AI, DevOps for ML.
+- [SmartCBT (Computer Based Test)](https://github.com/amir-projects/smartcbt)
 
-- 👯 I’m looking to collaborate on **FaceAI,MiniERP,GenAI**
+## 🌱 Currently Learning
 
-- 🤝 I’m looking for help with **DevSecOps Community**, **AWS Cloud Community**
+- DevOps for AI
+- DevOps for ML
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/ahshohag/](https://www.linkedin.com/in/ahshohag/)
+## 👯 Looking to Collaborate On
 
-- 📫 How to reach me **shohag_ict@live.com**
+- FaceAI
+- MiniERP
+- GenAI
+
+## 🤝 Seeking Help With
+
+- DevSecOps Community
+- AWS Cloud Community
+
+## 📝 Articles
+
+I regularly write articles on [LinkedIn](https://www.linkedin.com/in/ahshohag/).
+
+## 📫 How to Reach Me
+
+- Email: shohag_ict@live.com
+
+Let's connect and build amazing things together! 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
